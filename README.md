@@ -1,5 +1,5 @@
 # Kepler-stars
-Este repositório hospeda as Tabelas Finais de Dados dos objetos caracterizados pelos modelos gerados através de um algoritmo de Aprendizagem de Máquina, construído durante o mestrado da autora.
+Este repositório hospeda as Tabelas Finais de Dados dos objetos da missão Kepler, caracterizados pelos modelos gerados através de um algoritmo de Aprendizagem de Máquina, construído durante o mestrado da autora.
 
 O arquivo <kbd>01tabela-final.csv</kbd> se refere à tabela de dados do modelo mais restrito do algoritmo, um modelo baseado em magnitudes J-PLUS/WISE com erro menor que 0,1 mag. Analogamente, o arquivo <kbd>02tabela-final.csv</kbd> se refere à tabela de dados de um segundo modelo, com menos restrições, baseado em magnitudes J-PLUS/WISE com erro menor que 0,2 mag. Como se supõe, o modelo mais restrito apresenta os dados mais precisos. 
 
