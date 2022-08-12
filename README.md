@@ -13,7 +13,7 @@ As tabelas contém as seguintes colunas:
 | DEC           | Declinação  (J200)|
 | kic_kepler_id | Número identificador do objeto no catálogo KIC |
 | Tef           | Temperatura efetiva estelar (K) |
-| logg          | Logaritmo da gravidade superficial estelar (cgs) |
+| logg          | Logaritmo da gravidade superficial estelar (dex) |
 | [Fe/H]        | Metalicidade estelar (dex) |
 | m_g           | Magnitude aparente, na banda G do GAIA (mag) |
 | dist(pc)      | Distância da Terra (pc) |
